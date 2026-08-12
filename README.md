@@ -58,4 +58,4 @@ terminology, metrics, and realistic value ranges (Jan 2022–Dec 2024).
   Liability and Commercial Property most efficient lines
 
 ---
-*Attic C. Lee — CV Portfolio Project A*
+
